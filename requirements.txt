@@ -3,3 +3,4 @@ flask
 google-generativeai
 groq
 python-dotenv
+GROQ_API_KEY
